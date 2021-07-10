@@ -1,1 +1,1 @@
-# aparnarepository
+# aparnarepository used for selenium automation
